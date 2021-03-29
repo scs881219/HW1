@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">HW1</string>
+    <string name="temptrans">溫度轉換</string>
+    <string name="input">請輸入華氏溫度</string>
+    <string name="button">轉換</string>
+    <string name="output">輸出攝氏溫度</string>
+
+</resources>
